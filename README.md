@@ -3,7 +3,6 @@
 ## Student Name
 Nawe Abaasa
 
----
 
 # Description of the Database System
 This project is a relational database system developed for managing supermarket retail and supply chain operations. 
@@ -15,7 +14,6 @@ The database system helps improve:
 - Customer order processing
 - Payment management
 - Employee and store management
-
 The project was implemented using SQL Server Management Studio (SSMS).
 
 
